@@ -1,0 +1,14 @@
+{
+  "name": "pemgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rob Thuleen <rob.thuleen@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "pem": "^1.9.4"
+  }
+}
